@@ -1,5 +1,6 @@
 # Loan Analytics Portfolio
 End-to-End data analysis of Bank Loan using SQL, Python and Power BI. 
+This project is an end-to-end analysis of bank loan data using Python (Pandas, Seaborn), SQL, Power BI, and Excel. It covers data cleaning, exploratory analysis, dashboard creation, and business reporting to uncover insights into loan performance and risk.
 
 This repository contains:
 - 📄 `BANK LOAN REPORT-(BRD).pdf`: Business requirement document
@@ -7,8 +8,6 @@ This repository contains:
 - 📊 `BANK LOAN REPORT (DASHBOARD).pbix`: Power BI dashboard visualizing loan KPIs
 
 Tools used: Python (Pandas, Seaborn), SQL, Power BI, Excel
-
-This project is an end-to-end analysis of bank loan data using Python (Pandas, Seaborn), SQL, Power BI, and Excel. It covers data cleaning, exploratory analysis, dashboard creation, and business reporting to uncover insights into loan performance and risk.
 
 🛠️ Tools & Technologies
 Python: Pandas, Seaborn, Matplotlib for data cleaning and visualization
